@@ -942,4 +942,4 @@ client.on("interactionCreate", async interaction => {
 });
 
 // ====== LOGIN ======
-client.login("MTUwMTQwODM4Mzc5Njc3Mjk2NQ.GN1HiR.qTmSTJzDG7m28ivHSYjK9x49U3zgP3Z__rbuqk");
+client.login("MTUwMTQwODM4Mzc5Njc3Mjk2NQ.G-lzIl.0Um8USnAGi4UJJJsNOR4c6Pycmpc1HXHQfiSNM");
